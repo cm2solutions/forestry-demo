@@ -17,11 +17,11 @@ fields:
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: Ray's Blog
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: Ray Techs Lab
 - type: field_group
   name: hero_button
   label: Hero Button
