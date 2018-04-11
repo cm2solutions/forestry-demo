@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: 2018-04-01 23:00:00 -0400
-banner_image: "/uploads/2018/04/11/image003.png"
+banner_image: "/uploads/2018/02/17/bridge.jpg"
 heading: Contact of Ray
 publish_date: 2018-04-01 00:00:00 -0400
 show_staff: true
