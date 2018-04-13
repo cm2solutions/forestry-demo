@@ -1,12 +1,13 @@
 ---
-title: Charlize Babatunde
+title: "山口百惠"
 date: 2017-11-14 10:54:31 +0000
 role:
 - staff
-thumbnail: "/uploads/2017/11/14/william-stitt-162611.jpg"
+thumbnail: "/uploads/2018/04/13/256755BE28F4501878D8340FEC39DFCBF92091B2_size41_w720_h688.jpeg"
 sub_heading: Administration
 email: ''
 linkedin: ''
+layout: person
 ---
 
 Charlize Babatunde joined Belkirk in 2015 as Head of Administration.
